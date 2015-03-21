@@ -1,6 +1,7 @@
 #!/bin/bash
 
 python "scripts/gps.py" &
+python "scripts/accelerometer.py" &
 
 if [ $# -lt 1 ] || [ $# -gt 2 ];then
 	echo "Usage: $0 APK <duration in seconds>"

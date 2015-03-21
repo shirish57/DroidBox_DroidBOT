@@ -1,3 +1,5 @@
+# Dynamically changes GPS coordinate values in emulator.
+
 import getpass
 import sys
 import telnetlib
