@@ -14,3 +14,5 @@ Effects:
 -> Continous GPS coodinates updates.
 
 -> New IMEI number at every Emulator Statup.
+
+-> Continous Accelerometer update
