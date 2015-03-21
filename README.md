@@ -8,6 +8,5 @@ Steps for Integration:
 -> Overwrite the existing files in DroidBox.
 
 Effects:
-
 -> Continous GPS coodinates updates.
 -> New IMEI number at every Emulator Statup.
