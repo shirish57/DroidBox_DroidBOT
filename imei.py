@@ -18,3 +18,4 @@ with open('images/system.img','r+b') as old, open('buffer', 'wb') as new:
 							continue
 			new.write(line)									#Write lines in buffer
 shutil.move('buffer', 'images/system.img')								# Remove Buffer file
+# sapient
